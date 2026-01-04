@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Bhagya Sandakelum
 
-<!--
-**bhagyasandakelum/bhagyasandakelum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science undergraduate at the University of Jaffna. My passion lies in solving real-world problems using technology and building secure systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Key Areas of Focus
+
+- Full-Stack Development  
+- Cybersecurity  
+- Cloud Computing  
+
+---
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/bhagyaslive/)  
+Feel free to reach out for collaborations or to discuss technology!
